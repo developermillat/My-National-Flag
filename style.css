@@ -1,0 +1,38 @@
+.potaka{
+    height: 100px;
+    width: 250px;
+    background-color: green;
+    text-align: center;
+    padding: 62px;
+    margin-left: 350px;
+    margin-top:80px ;
+    box-shadow: 51px 19px 3px black;}
+.lal-onso{
+    background-color: red;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    display: inline-block;
+    text-align: center;
+    border-radius: 50%;}
+.anda{
+    height: 100px;
+    width: 250px;
+    background-color: rgba(214, 172, 172, 0.87);
+    border: 5px solid rgb(117, 32, 32);
+    padding: 30px;
+    text-align: center;
+    border-radius: 50%;
+    margin-left: 537px;
+    margin-top:50px ;
+    box-shadow: 51px 19px 3px red;}
+.kusum{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    background-color: red;
+    display: inline-block;
+    text-align: center;}
+h2{
+    text-align: center;
+    text-shadow: 51px 19px 3px red;}
